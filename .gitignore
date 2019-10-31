@@ -1,0 +1,6 @@
+# PhpStorm etc
+/.idea
+/.DS_Store
+# Composer
+/composer.phar
+/vendor/
